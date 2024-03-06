@@ -1,6 +1,7 @@
 {
   "name": "tag_timer_client",
   "version": "1.0.0",
+  "type":"commonjs",
   "description": "",
   "main": "reg_ex_test.js",
   "directories": {
