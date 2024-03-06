@@ -1,0 +1,18 @@
+{
+  "name": "tag_timer_client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reg_ex_test.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^5.3.6"
+  }
+}
